@@ -1,8 +1,22 @@
-# React + Vite
+# Rent Property App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application to browse, search, and filter rental properties with a modern UI. Users can search for properties by location, price, and features, as well as like properties to save them for later viewing.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Search properties to rent based on location, price, and other filters
+- Like or save properties for later viewing
+- Interactive user interface with dynamic filtering
+- State management using Redux Toolkit
+- Responsive design with Tailwind CSS
+- Icons integrated via `lucide-react` and `react-icons`
+
+## Technologies Used
+
+- **Frontend**: React, React Router, Redux Toolkit
+- **Styling**: Tailwind CSS
+- **Icons**: Lucide React, React Icons
+- **Build Tool**: Vite
+- **Linting**: ESLint with React and Hooks plugins
+
+
